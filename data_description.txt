@@ -1,0 +1,10 @@
+we choose the dataset for our final porject of programming for big data from BBC news article.
+there is two colomns and 2126 rows.
+first row is for category of article and second row is for text of article. but in our project we will only use text colomn.
+becasue we have to find category of article i.e: which article belong to which category. if a article is about sports or have any other category we will find that article is about sport.
+our data storage is 4.82 MB.
+Updates
+Expected update frequency	Not specified
+Last updated	2019-03-03
+Date created	2019-03-03
+Current version	Version 1
