@@ -1,0 +1,10 @@
+                                                description of project
+the news articles helps the students who can awake the concept of News articles cover the basics of current events.
+Feature articles are longer and more in depth than regular news articles.
+They cover one subject from multiple angles and are written in a more creative, entertaining format.
+ Although a news story can be creative and entertaining, too
+So In this project we will collected all the related data to a topic  by using algoritham.
+ We Will Gather all the data in such a way that a large data  wil be divided into small pieces.
+  A large data will be given to the system and our algo will read the data
+and will create folders related to different data in dataset and and that
+ data will be separated in different groups.
